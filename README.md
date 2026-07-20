@@ -46,7 +46,8 @@
 - .NET, WPF
 
 **Bases de données :**
-- MySQL, PostgreSQL
+- MySQL
+- PostgreSQL
 
 **Outils :**
 - Visual Studio
@@ -63,6 +64,12 @@
 - GitHub : [@anico-rabearisoa14](https://github.com/anico-rabearisoa14)
 
 ---
+
+### Mon cv
+[![Telechager](https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/anico-rabearisoa14/anico-rabearisoa14/blob/main/CV_Anico_RABEARISOA.pdf)
+
+---
+
 
 Merci d’avoir visité mon profil !
 
