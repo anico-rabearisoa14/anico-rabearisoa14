@@ -66,7 +66,7 @@
 ---
 
 ### Mon cv
-[![Telechager](https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/anico-rabearisoa14/anico-rabearisoa14/blob/main/CV_Anico_RABEARISOA.pdf)
+[![Telechager](https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/anico-rabearisoa14/anico-rabearisoa14/raw/main/CV_Anico_RABEARISOA.pdf)
 
 ---
 
