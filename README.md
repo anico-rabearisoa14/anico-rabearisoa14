@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Salut, je suis Anico RABEARISOA</h1>
+  <h1>Salut, je suis Anico Rabearisoa</h1>
   
   <p>
     <strong>Étudiant en Informatique</strong><br>
@@ -34,34 +34,37 @@
 ### Technologies & Outils
 
 **Languages :**
-- JavaScript, PHP, Java, C++, C#, SQL
+- JavaScript
+- PHP
+- Java
+- C++ , C#
+- SQL
+- Python
 
 **Frameworks & Bibliothèques :**
-- React, Vue.js 3, .NET, WPF
+- React , Vue.js 3
+- Bootstrap5
+- .NET, WPF
 
 **Bases de données :**
 - MySQL, PostgreSQL
 
 **Outils :**
-- Visual Studio, Visual Studio Code, Git & GitHub, MySQL Workbench
+- Visual Studio
+- Visual Studio Code
+- Git & GitHub
 
 ---
 
-### Projets phares
-
-- Gestion des Prêts Bancaires  
-  Application desktop complète en C# WPF avec base de données MySQL (opérations CRUD).
-
----
 
 ### Me contacter
 
-- Email : rabearisoaocina@gmail.com
-- LinkedIn : rabearisoa-anico
-- GitHub : @anico-rabearisoa14
+- Email : [rabearisoaocina@gmail.com](mailto:rabearisoaocina@gmail.com)
+- LinkedIn : [rabearisoa-anico](https://www.linkedin.com/in/rabearisoa-anico-245641331/)
+- GitHub : [@anico-rabearisoa14](https://github.com/anico-rabearisoa14)
 
 ---
 
 Merci d’avoir visité mon profil !
 
-Ouvert aux opportunités de stage en développement web (React / Vue.js) et .NET / Applications desktop.
+Ouvert aux opportunités de **stage** en développement web (React / Vue.js) et .NET / Applications desktop.
