@@ -26,8 +26,7 @@
 - Étudiant en 2ème année en Informatique
 - Je me spécialise actuellement dans le développement Web avec les frameworks JavaScript
 - Focus principal : React & Vue.js
-- Projet académique : Système de Gestion des Prêts Bancaires (Application desktop avec WPF & MySQL)
-- Motivé et ouvert aux opportunités de stage
+- Motivé et ouvert aux opportunités de **stage**
 
 ---
 
