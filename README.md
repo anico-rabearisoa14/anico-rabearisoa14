@@ -36,4 +36,4 @@
 
 Merci d’avoir visité mon profil !
 
-Ouvert aux opportunités de **collaboration**.
+Je suis ouvert à toutes les opportunités de **collaboration**.
