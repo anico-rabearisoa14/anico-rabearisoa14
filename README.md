@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Salut , je suis <strong>Anico</strong> Rabearisoa</h1>
+  <h1> 👋 Salut , je suis <strong>Anico</strong> Rabearisoa</h1>
   
   <p>
     <strong>Étudiant en Informatique</strong><br>
@@ -26,13 +26,11 @@
 
 ---
 
-
 ### Me contacter
 
 - Email : [rabearisoaocina@gmail.com](mailto:rabearisoaocina@gmail.com)
 - LinkedIn : [rabearisoa-anico](https://www.linkedin.com/in/rabearisoa-anico-245641331/)
-- GitHub : [@anico-rabearisoa14](https://github.com/anico-rabearisoa14)
-
+---
 
 Merci d’avoir visité mon profil !
 
